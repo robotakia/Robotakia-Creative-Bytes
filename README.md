@@ -29,12 +29,19 @@
 
 # Υλικά 
 (1) USB κάμερα 20 € 
+
 (2) BBC Micro:bit V2 Board (Bulk) 19.90 €
+
 (2) USB mini cable 5 € 
+
 (2) Keyestudio sensor shield V2 KS0360 για Micro:bit 
+
 (1) Ultrasonic Sensor 1.80 €
+
 (1) LED 
+
 (2) Continuous Servo Motor 5.90 €
+
     F-F καλώδια 
 
 [Η τιμή που αναγράφεται είναι για τη μονάδα]
