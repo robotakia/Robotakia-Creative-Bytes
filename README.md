@@ -28,13 +28,13 @@
 9. Ενθάρρυνση Συνεργατικότητας: Προώθηση της συνεργασίας μεταξύ των παιδιών κατά τη δημιουργία του έργου, ενισχύοντας τις ικανότητες τους στον τομέα της ομαδικής εργασίας.
 
 # Υλικά 
-(1)USB κάμερα 20 € 
+(1) USB κάμερα 20 € 
 (2) BBC Micro:bit V2 Board (Bulk) 19.90 €
-(2)USB mini cable 5 € 
+(2) USB mini cable 5 € 
 (2) Keyestudio sensor shield V2 KS0360 για Micro:bit 
-(1)Ultrasonic Sensor 1.80 €
-(1)LED 
-(2)Continuous Servo Motor 5.90 €
-F-F καλώδια 
+(1) Ultrasonic Sensor 1.80 €
+(1) LED 
+(2) Continuous Servo Motor 5.90 €
+    F-F καλώδια 
 
 [Η τιμή που αναγράφεται είναι για τη μονάδα]
