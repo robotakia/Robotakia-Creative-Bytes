@@ -45,3 +45,8 @@
 F-F καλώδια 
  
 [Η τιμή που αναγράφεται είναι για τη μονάδα]
+
+# Επιπλέον Πληροφορίες
+Δείτε την παρουσίαση του έργου μας: https://youtu.be/42wK6c7wF1Q
+
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2024/robotakia-creative-bytes-pinakas-sinesthimaton/
